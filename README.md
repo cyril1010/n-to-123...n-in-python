@@ -1,4 +1,4 @@
-#This code will take a number as input and gives output as 123...n
+This code will take a number as input and gives output as 123...n
 
 #   SAMPLE INPUT : 5
 #   SAMPLE OUTPUT : 12345
